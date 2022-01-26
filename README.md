@@ -1,6 +1,6 @@
 # Octopus
 
-<img src="./assets/react-testing-library.png" height="300" width="1500" />
+<img src="./assets/react-testing-library-2.png" height="300" width="1500" />
 
 Simple and complete testing utilities that encourage good testing practices
 
