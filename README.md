@@ -2,26 +2,27 @@
 
 <img src="./assets/react-testing-library-2.jpg" width="100%" />
 
-Simple and complete testing utilities that encourage good testing practices
+Utilitários de teste simples e completos que incentivam boas práticas de teste.
+<hr>
 
-### Write Maintainable Tests
-Tests only break when your app breaks, not implementation details
+### Escreva Testes Manuteníveis
+Os testes só são interrompidos quando seu aplicativo é interrompido, não os detalhes de implementação.
 
-### Develop with Confidence
-Interact with your app the same way as your users
+### Desenvolva com Confiança
+Interaja com seu aplicativo da mesma forma que seus usuários.
 
-### Accessible by Default
-Built-in selectors find elements the way users do to help you write inclusive code
+### Acessível por Padrão
+Seletores integrados encontram elementos da mesma forma que os usuários fazem para ajudá-lo a escrever código inclusivo.
 
-## The Problem
+## Problema
 
- * You want tests for your UI that avoid including implementation details and rather focus on making your tests give you the confidence for which they are intended.
- * You want your tests to be maintainable so refactors (changes to implementation but not functionality) don't break your tests and slow you and your team down.
+ * Você deseja testes para sua interface do usuário que evitem incluir detalhes de implementação e se concentrem em fazer com que seus testes forneçam a confiança para a qual eles se destinam.
+ * Você quer que seus testes sejam passíveis de manutenção, então refatorações (mudanças na implementação, mas não na funcionalidade) não interrompam seus testes e atrasam você e sua equipe.
 
-## The Solution
+## Solução
 
-The Testing Library family of libraries is a very light-weight solution for testing without all the implementation details. The main utilities it provides involve querying for nodes similarly to how users would find them. In this way, testing-library helps ensure your tests give you confidence in your UI code.
+A família de bibliotecas Testing Library é uma solução muito leve para testes sem todos os detalhes de implementação. Os principais utilitários que ele fornece envolvem a consulta de nós de maneira semelhante à forma como os usuários os encontrariam. Dessa forma, a biblioteca de testes ajuda a garantir que seus testes forneçam confiança em seu código de interface do usuário.
 
-# Guiding Principle
+# Princípio Orientador
   
-The more your tests resemble the way your software is used, the more confidence they can give you.
+Quanto mais seus testes se assemelham à forma como seu software é usado, mais confiança eles podem lhe dar.
