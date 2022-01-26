@@ -13,6 +13,7 @@ Interaja com seu aplicativo da mesma forma que seus usuários.
 
 ### Acessível por Padrão
 Seletores integrados encontram elementos da mesma forma que os usuários fazem para ajudá-lo a escrever código inclusivo.
+<hr>
 
 ## Problema
 
