@@ -24,6 +24,11 @@ Seletores integrados encontram elementos da mesma forma que os usuários fazem p
 
 A família de bibliotecas Testing Library é uma solução muito leve para testes sem todos os detalhes de implementação. Os principais utilitários que ele fornece envolvem a consulta de nós de maneira semelhante à forma como os usuários os encontrariam. Dessa forma, a biblioteca de testes ajuda a garantir que seus testes forneçam confiança em seu código de interface do usuário.
 
+## Material de Apoio
+
+* [Cheatsheets / Learn React Testing - Jest](https://www.codecademy.com/learn/learn-react-testing/modules/jest/cheatsheet)
+* [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
+
 # Princípio Orientador
   
 Quanto mais seus testes se assemelham à forma como seu software é usado, mais confiança eles podem lhe dar.
